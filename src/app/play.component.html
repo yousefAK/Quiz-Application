@@ -1,0 +1,21 @@
+<mat-card>
+
+    <mat-card-header>
+        <mat-card-title>
+            <span>Quizzes Board</span>
+        </mat-card-title>
+    </mat-card-header>
+
+    <mat-card-content>
+
+        <mat-list role="list" *ngFor="let q of quizzes">
+            <mat-list-item role="listitem" class="cliclLink" [routerLink]="['/playquiz', q.id]"> {{ q.title }}
+            </mat-list-item>
+        </mat-list>
+
+    </mat-card-content>
+
+    <mat-card-actions>
+    </mat-card-actions>
+
+</mat-card>
