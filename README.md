@@ -6,3 +6,5 @@ The Application allow to:
 - Create quizzes by registered users only 
 - Create questions for specific quiz
 - Play the quiz and get resuts for all users
+
+![GitHub Logo](/src/assets/images/1.png)
