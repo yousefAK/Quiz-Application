@@ -7,8 +7,8 @@ The Application allow to:
 - Create questions for specific quiz
 - Play the quiz and get resuts for all users
 
-![GitHub Logo](/src/assets/images/1.png)
-
 ![GitHub Logo](/src/assets/images/2.png)
+
+![GitHub Logo](/src/assets/images/1.png)
 
 ![GitHub Logo](/src/assets/images/3.png)
